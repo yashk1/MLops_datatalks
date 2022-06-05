@@ -9,7 +9,7 @@
 
 ###### Now in detail
 
-###### 1. What is MLops?
+##### 1. What is MLops?
 ![](https://databricks.com/wp-content/uploads/2021/12/MLOps-Cycle.png)
 Machine Learning operations is the process of taking the machine learning model from training to deployment (or production) and then maintaining and monitoring them. 
 
@@ -21,7 +21,7 @@ Benefits of MLops:
 
 Readings - https://databricks.com/glossary/mlops
 
-###### 2. Environment Setup
+##### 2. Environment Setup
 
 - Create an EC2 instance on AWS
     Instance type 
@@ -99,10 +99,10 @@ jupyter notebook
 - Go to VSCode and forward a port. It is done on Ports tab in terminal window in VSCode.
 
 
-###### 3. MLops Maturity models
+##### 3. MLops Maturity models
 (https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model)
 
-###### 4. Homework
+##### 4. Homework
 [Assignment]: (https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/01-intro/homework.md)
 
 Solution notebook 
