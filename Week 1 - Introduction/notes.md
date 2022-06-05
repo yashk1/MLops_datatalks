@@ -24,7 +24,7 @@ Readings - https://databricks.com/glossary/mlops
 ##### 2. Environment Setup
 
 - Create an EC2 instance on AWS
-    Instance type 
+    - Instance type 
     - `ubuntu x86_64`
     - `t2.xlarge`
 - Connect to EC2 instance using Terminal 
