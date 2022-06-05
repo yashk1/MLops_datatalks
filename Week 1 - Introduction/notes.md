@@ -103,7 +103,7 @@ jupyter notebook
 (https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model)
 
 ##### 4. Homework
-[Assignment]: (https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/01-intro/homework.md)
+Assignment: https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/01-intro/homework.md
 
 Solution notebook 
 
